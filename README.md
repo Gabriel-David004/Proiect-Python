@@ -49,7 +49,7 @@ Proiectul este organizat în următoarele fișiere:
 
 ## Exemplu de Output
 ```
-Please insert your debit card: 123456789101112
+Please insert your debit card: 1234567
 Please enter your pin: 1234
 Welcome Gabriel
 Please choose from one of the following options...
