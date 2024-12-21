@@ -36,11 +36,11 @@ if __name__ == "__main__":
 
     #creare lista de pin-uri
     list_of_cardHolder = []
-    list_of_cardHolder.append(cardHolder("123456789101112", 1234, "Gabriel", "John", 150.31))
-    list_of_cardHolder.append(cardHolder("121110987654321", 4321, "Isac", "Maria", 500.89))
-    list_of_cardHolder.append(cardHolder("729939771223244", 8819, "Lutcan", "Mihai", 67.23))
-    list_of_cardHolder.append(cardHolder("928335446477122", 9184, "Cazacu", "Daniel", 899.16))
-    list_of_cardHolder.append(cardHolder("991823638911029", 9119, "Popescu", "Lucian", 13.89))
+    list_of_cardHolder.append(cardHolder("1234567", 1234, "Gabriel", "John", 150.31))
+    list_of_cardHolder.append(cardHolder("7654321", 4321, "Isac", "Maria", 500.89))
+    list_of_cardHolder.append(cardHolder("8912345", 8819, "Lutcan", "Mihai", 67.23))
+    list_of_cardHolder.append(cardHolder("5432198", 9184, "Cazacu", "Daniel", 899.16))
+    list_of_cardHolder.append(cardHolder("1111111", 9119, "Popescu", "Lucian", 13.89))
 
     #solicitare utilizator numar debit
     debitCardNum = ""
